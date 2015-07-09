@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="NumberView">
+        <attr name="nvTextColor" format="color|reference" />
+        <attr name="nvTextSize" format="dimension" />
+        <attr name="nvStrokeWidth" format="float" />
+    </declare-styleable>
+</resources>
