@@ -6,6 +6,8 @@ The Animated View like Timely .
 
 [What is Timely][2]
 
+![image](art/show.gif)
+
 # Usage
 
 ```groovy
